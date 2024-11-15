@@ -1,0 +1,1 @@
+# Volatility-Analysis-Using-GARCH-2-1-Model-on-Tech-Stocks
